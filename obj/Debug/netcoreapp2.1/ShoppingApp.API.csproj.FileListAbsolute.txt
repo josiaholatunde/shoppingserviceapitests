@@ -1,0 +1,14 @@
+c:\Users\User\Desktop\UnitTests\ShoppingApp.API\bin\Debug\netcoreapp2.1\ShoppingApp.API.deps.json
+c:\Users\User\Desktop\UnitTests\ShoppingApp.API\bin\Debug\netcoreapp2.1\ShoppingApp.API.runtimeconfig.json
+c:\Users\User\Desktop\UnitTests\ShoppingApp.API\bin\Debug\netcoreapp2.1\ShoppingApp.API.runtimeconfig.dev.json
+c:\Users\User\Desktop\UnitTests\ShoppingApp.API\bin\Debug\netcoreapp2.1\ShoppingApp.API.dll
+c:\Users\User\Desktop\UnitTests\ShoppingApp.API\bin\Debug\netcoreapp2.1\ShoppingApp.API.pdb
+c:\Users\User\Desktop\UnitTests\ShoppingApp.API\obj\Debug\netcoreapp2.1\ShoppingApp.API.csprojAssemblyReference.cache
+c:\Users\User\Desktop\UnitTests\ShoppingApp.API\obj\Debug\netcoreapp2.1\ShoppingApp.API.csproj.CoreCompileInputs.cache
+c:\Users\User\Desktop\UnitTests\ShoppingApp.API\obj\Debug\netcoreapp2.1\ShoppingApp.API.RazorAssemblyInfo.cache
+c:\Users\User\Desktop\UnitTests\ShoppingApp.API\obj\Debug\netcoreapp2.1\ShoppingApp.API.RazorAssemblyInfo.cs
+c:\Users\User\Desktop\UnitTests\ShoppingApp.API\obj\Debug\netcoreapp2.1\ShoppingApp.API.AssemblyInfoInputs.cache
+c:\Users\User\Desktop\UnitTests\ShoppingApp.API\obj\Debug\netcoreapp2.1\ShoppingApp.API.AssemblyInfo.cs
+c:\Users\User\Desktop\UnitTests\ShoppingApp.API\obj\Debug\netcoreapp2.1\ShoppingApp.API.RazorTargetAssemblyInfo.cache
+c:\Users\User\Desktop\UnitTests\ShoppingApp.API\obj\Debug\netcoreapp2.1\ShoppingApp.API.dll
+c:\Users\User\Desktop\UnitTests\ShoppingApp.API\obj\Debug\netcoreapp2.1\ShoppingApp.API.pdb
